@@ -8,5 +8,4 @@ $baseDir = dirname($vendorDir);
 return array(
     'Webpatser\\Countries' => array($vendorDir . '/webpatser/laravel-countries/src'),
     'Detection' => array($vendorDir . '/mobiledetect/mobiledetectlib/namespaced'),
-    'Barryvdh' => array($vendorDir . '/barryvdh/reflection-docblock/src'),
 );
